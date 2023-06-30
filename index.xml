@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 13:37:27 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 13:49:32 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于搭hugo Blog出现的问题</title>
+      <link>/posts/%E5%85%B3%E4%BA%8E%E6%90%ADhugo-blog%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Fri, 30 Jun 2023 13:49:32 +0800</pubDate>
+      
+      <guid>/posts/%E5%85%B3%E4%BA%8E%E6%90%ADhugo-blog%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>
+        
+          
+            关于搭hugo blog出现的问题 一、一定要将文件建到自己熟知的地址，否则在弄path和需要在该blog的目录下进行操作的时候，会非常麻烦 二、在上传至github的时候，一定要仔细看教程，否则你可能上传的是一个没有图片只有文字的博客 三、在调配置时，一定要选好修改文件的软件，否则只是修改了表面的内容，而并没有修改内部数据 
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/posts/about/</link>
